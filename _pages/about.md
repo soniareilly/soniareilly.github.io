@@ -9,15 +9,13 @@ redirect_from:
 
 I am a 5th year PhD Candidate in applied mathematics at the Courant Institute of Mathematical Sciences, New York University, advised by [Georg Stadler](https://math.nyu.edu/~stadler/). My research focuses on uncertainty quantification, particularly Bayesian inverse problems that arise from PDE-governed systems. These are parameter estimation problems that are often infinite-dimensional, so much of my research is aimed at deriving methods that are computationally feasible even in very high dimensions. 
 
-Most recently, I have been working on developing scalable methods of marginalizing out the effects of unknown hyperparameters on PDE-governed Bayesian inverse problems. This work will be on the arxiv in Spring 2026. 
+Most recently, I have been working on developing efficient methods of marginalizing out the effects of unknown hyperparameters on PDE-governed Bayesian inverse problems. This work will be on the arxiv in Spring 2026. 
 
 The first four years of my PhD were supported by the Department of Energy's [Computational Sciences Graduate Fellowship](https://www.krellinst.org/csgf/). Prior to that, I completed my B.S. in Mathematics with Computer Science at MIT. I expect to finish my PhD in Spring 2027, and I will be on the academic job market this fall.
 
 Recent and Upcoming Talks and Posters
 ------
 1. SIAM Annual Meeting 2026 (invited), Cleveland, OH, July 2026
-
-1. Sayas Numerics Day 2026, University of Maryland, College Park, MD, May 2026
 
 1. ICERM Workshop on Bayesian Inverse Problems and UQ, Providence, RI, March 2026 ([poster](/files/ICERM_2026_poster.pdf))
 
