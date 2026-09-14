@@ -16,6 +16,20 @@ The difficulty lies in marginalizing out the hyperparameters to recover a distri
 
 For more information, see the [arxiv preprint](https://arxiv.org/abs/2607.03355) or these [slides](/files/SIAM_AN_26_slides.pdf) from July 2026.
 
+Optimal Experimental Design (OED) under Hyperparameter Uncertainty
+------
+
+Building on the previous project, we consider the problem of how to optimally place sensors to maximize information gain in problems with uncertain hyperparameters. In particular, the hyperparameters play an especially significant role in sequential OED problems, in which previous measurements are used to inform later sensor placements, since hyperparameters can be inferred to improve placements. We adapt the D-optimal criterion to take advantage of the efficient evaluation methods developed above to accelerate the computationally intensive optimization loop of OED.
+
+Joint work with [Noemi Petra](https://faculty.ucmerced.edu/npetra/) at UC Merced, and Georg Stadler.
+
+Connecting PDE-governed Inverse Problems to INLA
+------
+
+While the inverse problems community has been advancing methods for Bayesian inference problems with hyperparameters, the geostatistics community has developed a widely adopted method, Integrated Nested Laplace Approximations (INLA), which addresses strikingly similar problems. Together with the original author of INLA, we are attempting to bring the two perspectives into a shared framework to illustrate the commonalities and the areas where the methods differ, so that practitioners from both fields can benefit from each other's work, a goal reflected in our upcoming minisymposium at SIAM CSE 27: "Sampling-free Bayesian Inference: Bridging Spatial Statistics and PDE-governed Inverse Problems".
+
+Joint work with [Håvard Rue](https://www.kaust.edu.sa/en/study/faculty/haavard-rue) (developer of INLA) and [Lisa Gaedke-Merzhäuser](https://cemse.kaust.edu.sa/profiles/lisa-gaedke-merzhauser) at KAUST, and with Georg Stadler.
+
 
 
 
