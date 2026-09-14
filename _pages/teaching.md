@@ -10,9 +10,11 @@ author_profile: true
 Graduate Teaching Assistant at Courant Institute, NYU
 ------
 
-**MATH-UA 334: Mathematical Statistics**, Spring 2026 and 2025, Fall 2025 and 2024
+**MATH-UA 334: Mathematical Statistics**, Spring 2026 and 2025, Fall 2026, 2025 and 2024
 
-I am passionate about teaching, and I take pride in compiling recitation notes that I hope will be helpful to my students. Below are the notes for this semester's class.
+**MATH-UA 253: Linear and Nonlinear Optimization**, Spring 2024
+
+I am passionate about teaching, and I take pride in compiling recitation notes that I hope will be helpful to my students. Below are the notes from last semester's class.
 
 Spring 2026:
 * Week 1: [worksheet](/files/MathStatsSp26/Recitation_1_Problems.pdf), [notes and solutions](/files/MathStatsSp26/Recitation_1_Solutions.pdf)
@@ -29,8 +31,6 @@ Spring 2026:
 * Week 12: [worksheet](/files/MathStatsSp26/Recitation_12_Problems.pdf), [notes and solutions](/files/MathStatsSp26/Recitation_12_Solutions.pdf)
 * Week 13: [worksheet](/files/MathStatsSp26/Recitation_13_Problems.pdf), [notes and solutions](/files/MathStatsSp26/Recitation_13_Review_+_Solutions.pdf)
 
-
-**MATH-UA 253: Linear and Nonlinear Optimization**, Spring 2024
 
 Oral Exam Notes
 =======
