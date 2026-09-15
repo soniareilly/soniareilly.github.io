@@ -26,9 +26,9 @@ Joint work with [Noemi Petra](https://faculty.ucmerced.edu/npetra/) at UC Merced
 Connecting PDE-governed Inverse Problems to INLA
 ------
 
-While the inverse problems community has been advancing methods for Bayesian inference problems with hyperparameters, the geostatistics community has developed a widely adopted method, Integrated Nested Laplace Approximations (INLA), which addresses strikingly similar problems. Together with the original author of INLA, we are attempting to bring the two perspectives into a shared framework to illustrate the commonalities and the areas where the methods differ, so that practitioners from both fields can benefit from each other's work, a goal reflected in our upcoming minisymposium at SIAM CSE 27: "Sampling-free Bayesian Inference: Bridging Spatial Statistics and PDE-governed Inverse Problems".
+While the inverse problems community has been advancing methods for Bayesian inference problems with hyperparameters, the geostatistics community has developed a widely adopted method, Integrated Nested Laplace Approximations (INLA), which addresses strikingly similar problems. Together with some of the developers of INLA, we are attempting to bring the two perspectives into a shared framework to illustrate the commonalities and the areas where the methods differ, so that practitioners from both fields can benefit from each other's work. This goal is reflected in our upcoming minisymposium at SIAM CSE 27: "Sampling-free Bayesian Inference: Bridging Spatial Statistics and PDE-governed Inverse Problems".
 
-Joint work with [Håvard Rue](https://www.kaust.edu.sa/en/study/faculty/haavard-rue) (developer of INLA) and [Lisa Gaedke-Merzhäuser](https://cemse.kaust.edu.sa/profiles/lisa-gaedke-merzhauser) at KAUST, and with Georg Stadler.
+Joint work with [Håvard Rue](https://www.kaust.edu.sa/en/study/faculty/haavard-rue) and [Lisa Gaedke-Merzhäuser](https://cemse.kaust.edu.sa/profiles/lisa-gaedke-merzhauser) at KAUST, and with Georg Stadler.
 
 
 
